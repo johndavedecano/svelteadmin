@@ -27,7 +27,7 @@
     flex: 1;
     display: flex;
     justify-content: center;
-    padding-top: 150px;
+    padding-top: 5%;
   }
 </style>
 
